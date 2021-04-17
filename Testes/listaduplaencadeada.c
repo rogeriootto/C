@@ -150,7 +150,6 @@ void insereFim(Lista *lista) {
 
 void limpa(Lista *lista) {
 
-    int i;
     P *auxiliar, *p;
 
     p = lista->start;
